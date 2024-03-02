@@ -16,7 +16,7 @@ user-friendly interface to manage inventory, view orders, and generate reports.
 - H2 In-memory Database for data storage. 
 - The Java Mail API is used to send HTML E-Mail over SMTP.
 
-
+<!-- 
 ## Login Details
 
 #### Admin
@@ -33,4 +33,4 @@ Username: user2@gmail.com
 Password: password2
 
 Username: user3@gmail.com
-Password: password3
+Password: password3 -->
